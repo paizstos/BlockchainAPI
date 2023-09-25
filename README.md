@@ -54,10 +54,10 @@ Exécutez le client en exécutant le script client.py.
 $ python3 client.py 
 ```
 
-Auteur
-[Tcheetos]
+Auteur :
+ Christos DIONG AKETI PAIZANOS
 
-Licence
-Ce projet est sous licence [licence] - voir le fichier LICENSE.md pour plus de détails.
+Licence :
+ Ce projet est sous licence [licence] - voir le fichier LICENSE.md pour plus de détails.
 
 
