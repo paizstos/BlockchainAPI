@@ -31,7 +31,7 @@ print("""
  
  Part : ServerAPI
  Version: 1.0.0
- Author : Tcheetos
+ Author : Christos DIONG AKETI PAIZANOS
  GitHub : https://www.github.com/paizstos 
  
 """)
