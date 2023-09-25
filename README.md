@@ -56,6 +56,9 @@ $ python3 client.py
 
 Auteur :
  Christos DIONG AKETI PAIZANOS
+ 
+Email : 
+ paizstos11012001@gmail.com
 
 Licence :
  Ce projet est sous licence [licence] - voir le fichier LICENSE.md pour plus de détails.
