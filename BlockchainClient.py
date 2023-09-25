@@ -1,6 +1,6 @@
 #!/usr/env/bin python
 #
-# Author : Tcheetos
+# Author : Christos DIONG AKETI PAIZANOS
 # GitHub : https://www.github.com/paizstos
 #
 #
