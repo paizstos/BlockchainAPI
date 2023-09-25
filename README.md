@@ -41,7 +41,7 @@ $ pip install flask
 ## Comment Démarrer l'Application
 Clonez ce dépôt sur votre machine locale.
 ```
-$ git clone 
+$ git clone https://github.com/paizstos/BlockchainAPI.git 
 ```
 
 Exécutez le serveur en exécutant le script serveur.py.
