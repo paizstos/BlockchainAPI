@@ -1,6 +1,6 @@
 # BlockchainAPI
 
-## Application de Gestion de Transactions
+### Application de Gestion de Transactions
 Cette application est composée d'un serveur API et d'un client qui permettent de gérer des transactions financières sous forme de blocs.
 
 # Serveur API
@@ -32,8 +32,10 @@ Obtenir de l'Aide : Les utilisateurs peuvent obtenir de l'aide en choisissant l'
 ## Prérequis
 * Python 3.x
 * Bibliothèque requests pour le client (installez-la avec pip install requests)
+* Bibliothèque flask (installez-la avec pip install flask)
 ``` 
 $ pip install requests
+$ pip install flask
 ```
 
 ## Comment Démarrer l'Application
